@@ -1,0 +1,12 @@
+# Build artifacts
+.build/
+*.app
+
+# Xcode / SwiftPM local metadata
+.swiftpm/
+
+# Superpowers scratch workspace
+.superpowers/
+
+# macOS
+.DS_Store
